@@ -1,0 +1,777 @@
+Country,Year,percent
+Afghanistan,2017,98.58
+Afghanistan,2018,49.29
+Afghanistan,2019,98.58
+Afghanistan,2020,49.29
+Albania,2017,88.6
+Albania,2018,44.3
+Albania,2019,88.6
+Albania,2020,44.3
+Algeria,2017,96.08
+Algeria,2018,48.04
+Algeria,2019,96.08
+Algeria,2020,48.04
+Andorra,2017,90.64
+Andorra,2018,45.32
+Andorra,2019,90.64
+Andorra,2020,45.32
+Angola,2017,98.88
+Angola,2018,49.44
+Angola,2019,98.88
+Angola,2020,49.44
+Antigua and Barbuda,2017,98.56
+Antigua and Barbuda,2018,49.28
+Antigua and Barbuda,2019,98.56
+Antigua and Barbuda,2020,49.28
+Argentina,2017,96.38
+Argentina,2018,48.19
+Argentina,2019,96.38
+Argentina,2020,48.19
+Armenia,2017,90.52
+Armenia,2018,45.26
+Armenia,2019,90.52
+Armenia,2020,45.26
+Australia,2017,80.6
+Australia,2018,40.3
+Australia,2019,80.6
+Australia,2020,40.3
+Austria,2017,91.12
+Austria,2018,45.56
+Austria,2019,91.12
+Austria,2020,45.56
+Azerbaijan,2017,99.48
+Azerbaijan,2018,49.74
+Azerbaijan,2019,99.48
+Azerbaijan,2020,49.74
+Bahamas,2017,99
+Bahamas,2018,49.5
+Bahamas,2019,99
+Bahamas,2020,49.5
+Bahrain,2017,97.76
+Bahrain,2018,48.88
+Bahrain,2019,97.76
+Bahrain,2020,48.88
+Bangladesh,2017,97.48
+Bangladesh,2018,48.74
+Bangladesh,2019,97.48
+Bangladesh,2020,48.74
+Barbados,2017,98.36
+Barbados,2018,49.18
+Barbados,2019,98.36
+Barbados,2020,49.18
+Belarus,2017,92.58
+Belarus,2018,46.29
+Belarus,2019,92.58
+Belarus,2020,46.29
+Belgium,2017,89.58
+Belgium,2018,44.79
+Belgium,2019,89.58
+Belgium,2020,44.79
+Belize,2017,99.74
+Belize,2018,49.87
+Belize,2019,99.74
+Belize,2020,49.87
+Benin,2017,98.94
+Benin,2018,49.47
+Benin,2019,98.94
+Benin,2020,49.47
+Bhutan,2017,97.98
+Bhutan,2018,48.99
+Bhutan,2019,97.98
+Bhutan,2020,48.99
+Bolivia,2017,97.68
+Bolivia,2018,48.84
+Bolivia,2019,97.68
+Bolivia,2020,48.84
+Bosnia and Herzegovina,2017,88.6
+Bosnia and Herzegovina,2018,44.3
+Bosnia and Herzegovina,2019,88.6
+Bosnia and Herzegovina,2020,44.3
+Botswana,2017,98.4
+Botswana,2018,49.2
+Botswana,2019,98.4
+Botswana,2020,49.2
+Brazil,2017,96.38
+Brazil,2018,48.19
+Brazil,2019,96.38
+Brazil,2020,48.19
+Brunei,2017,97.18
+Brunei,2018,48.59
+Brunei,2019,97.18
+Brunei,2020,48.59
+Bulgaria,2017,88.76
+Bulgaria,2018,44.38
+Bulgaria,2019,88.76
+Bulgaria,2020,44.38
+Burkina Faso,2017,99.18
+Burkina Faso,2018,49.59
+Burkina Faso,2019,99.18
+Burkina Faso,2020,49.59
+Burma,2017,93.86
+Burma,2018,46.93
+Burma,2019,93.86
+Burma,2020,46.93
+Burundi,2017,97
+Burundi,2018,48.5
+Burundi,2019,97
+Burundi,2020,48.5
+Cambodia,2017,97.92
+Cambodia,2018,48.96
+Cambodia,2019,97.92
+Cambodia,2020,48.96
+Cameroon,2017,89.18
+Cameroon,2018,44.59
+Cameroon,2019,89.18
+Cameroon,2020,44.59
+Canada,2017,80.3
+Canada,2018,40.15
+Canada,2019,80.3
+Canada,2020,40.15
+Cape Verde,2017,98.64
+Cape Verde,2018,49.32
+Cape Verde,2019,98.64
+Cape Verde,2020,49.32
+Central African Republic,2017,97.42
+Central African Republic,2018,48.71
+Central African Republic,2019,97.42
+Central African Republic,2020,48.71
+Chad,2017,97.04
+Chad,2018,48.52
+Chad,2019,97.04
+Chad,2020,48.52
+Chile,2017,97.98
+Chile,2018,48.99
+Chile,2019,97.98
+Chile,2020,48.99
+China,2017,93.44
+China,2018,46.72
+China,2019,93.44
+China,2020,46.72
+Colombia,2017,96.34
+Colombia,2018,48.17
+Colombia,2019,96.34
+Colombia,2020,48.17
+Comoros,2017,96.82
+Comoros,2018,48.41
+Comoros,2019,96.82
+Comoros,2020,48.41
+Congo-Brazzaville,2017,99.14
+Congo-Brazzaville,2018,49.57
+Congo-Brazzaville,2019,99.14
+Congo-Brazzaville,2020,49.57
+Congo-Kinshasa,2017,97.78
+Congo-Kinshasa,2018,48.89
+Congo-Kinshasa,2019,97.78
+Congo-Kinshasa,2020,48.89
+Costa Rica,2017,98.78
+Costa Rica,2018,49.39
+Costa Rica,2019,98.78
+Costa Rica,2020,49.39
+Cote D'Ivoire,2017,92.5
+Cote D'Ivoire,2018,46.25
+Cote D'Ivoire,2019,92.5
+Cote D'Ivoire,2020,46.25
+Croatia,2017,88.32
+Croatia,2018,44.16
+Croatia,2019,88.32
+Croatia,2020,44.16
+Cuba,2017,95.74
+Cuba,2018,47.87
+Cuba,2019,95.74
+Cuba,2020,47.87
+Cyprus,2017,92.58
+Cyprus,2018,46.29
+Cyprus,2019,92.58
+Cyprus,2020,46.29
+Czechia,2017,87.46
+Czechia,2018,43.73
+Czechia,2019,87.46
+Czechia,2020,43.73
+Denmark,2017,88.76
+Denmark,2018,44.38
+Denmark,2019,88.76
+Denmark,2020,44.38
+Djibouti,2017,98.76
+Djibouti,2018,49.38
+Djibouti,2019,98.76
+Djibouti,2020,49.38
+Dominica,2017,99.54
+Dominica,2018,49.77
+Dominica,2019,99.54
+Dominica,2020,49.77
+Dominican Republic,2017,97.1
+Dominican Republic,2018,48.55
+Dominican Republic,2019,97.1
+Dominican Republic,2020,48.55
+Ecuador,2017,98.28
+Ecuador,2018,49.14
+Ecuador,2019,98.28
+Ecuador,2020,49.14
+Egypt,2017,94.5
+Egypt,2018,47.25
+Egypt,2019,94.5
+Egypt,2020,47.25
+El Salvador,2017,98.76
+El Salvador,2018,49.38
+El Salvador,2019,98.76
+El Salvador,2020,49.38
+Equatorial Guinea,2017,96.8
+Equatorial Guinea,2018,48.4
+Equatorial Guinea,2019,96.8
+Equatorial Guinea,2020,48.4
+Eritrea,2017,98.06
+Eritrea,2018,49.03
+Eritrea,2019,98.06
+Eritrea,2020,49.03
+Estonia,2017,89.16
+Estonia,2018,44.58
+Estonia,2019,89.16
+Estonia,2020,44.58
+Ethiopia,2017,96.7
+Ethiopia,2018,48.35
+Ethiopia,2019,96.7
+Ethiopia,2020,48.35
+Fiji,2017,90.62
+Fiji,2018,45.31
+Fiji,2019,90.62
+Fiji,2020,45.31
+Finland,2017,89.96
+Finland,2018,44.98
+Finland,2019,89.96
+Finland,2020,44.98
+France,2017,85.62
+France,2018,42.81
+France,2019,85.62
+France,2020,42.81
+Gabon,2017,98.66
+Gabon,2018,49.33
+Gabon,2019,98.66
+Gabon,2020,49.33
+Gambia,2017,99.18
+Gambia,2018,49.59
+Gambia,2019,99.18
+Gambia,2020,49.59
+Georgia,2017,88
+Georgia,2018,44
+Georgia,2019,88
+Georgia,2020,44
+Germany,2017,88.76
+Germany,2018,44.38
+Germany,2019,88.76
+Germany,2020,44.38
+Ghana,2017,96.24
+Ghana,2018,48.12
+Ghana,2019,96.24
+Ghana,2020,48.12
+Greece,2017,90.36
+Greece,2018,45.18
+Greece,2019,90.36
+Greece,2020,45.18
+Grenada,2017,99.34
+Grenada,2018,49.67
+Grenada,2019,99.34
+Grenada,2020,49.67
+Guatemala,2017,93.44
+Guatemala,2018,46.72
+Guatemala,2019,93.44
+Guatemala,2020,46.72
+Guinea,2017,97.94
+Guinea,2018,48.97
+Guinea,2019,97.94
+Guinea,2020,48.97
+Guinea-Bissau,2017,98.58
+Guinea-Bissau,2018,49.29
+Guinea-Bissau,2019,98.58
+Guinea-Bissau,2020,49.29
+Guyana,2017,98.76
+Guyana,2018,49.38
+Guyana,2019,98.76
+Guyana,2020,49.38
+Haiti,2017,95.8
+Haiti,2018,47.9
+Haiti,2019,95.8
+Haiti,2020,47.9
+Honduras,2017,93.52
+Honduras,2018,46.76
+Honduras,2019,93.52
+Honduras,2020,46.76
+Hungary,2017,86.1
+Hungary,2018,43.05
+Hungary,2019,86.1
+Hungary,2020,43.05
+Iceland,2017,90.24
+Iceland,2018,45.12
+Iceland,2019,90.24
+Iceland,2020,45.12
+India,2017,94.24
+India,2018,47.12
+India,2019,94.24
+India,2020,47.12
+Indonesia,2017,96.94
+Indonesia,2018,48.47
+Indonesia,2019,96.94
+Indonesia,2020,48.47
+Iran,2017,93.72
+Iran,2018,46.86
+Iran,2019,93.72
+Iran,2020,46.86
+Iraq,2017,97.4
+Iraq,2018,48.7
+Iraq,2019,97.4
+Iraq,2020,48.7
+Ireland,2017,92.58
+Ireland,2018,46.29
+Ireland,2019,92.58
+Ireland,2020,46.29
+Israel,2017,53.02
+Israel,2018,26.51
+Israel,2019,53.02
+Israel,2020,26.51
+Italy,2017,87.9
+Italy,2018,43.95
+Italy,2019,87.9
+Italy,2020,43.95
+Jamaica,2017,99
+Jamaica,2018,49.5
+Jamaica,2019,99
+Jamaica,2020,49.5
+Japan,2017,89.58
+Japan,2018,44.79
+Japan,2019,89.58
+Japan,2020,44.79
+Jordan,2017,97.94
+Jordan,2018,48.97
+Jordan,2019,97.94
+Jordan,2020,48.97
+Kazakhstan,2017,97.44
+Kazakhstan,2018,48.72
+Kazakhstan,2019,97.44
+Kazakhstan,2020,48.72
+Kenya,2017,97.36
+Kenya,2018,48.68
+Kenya,2019,97.36
+Kenya,2020,48.68
+Kiribati,2017,90
+Kiribati,2018,45
+Kiribati,2019,90
+Kiribati,2020,45
+Kuwait,2017,96.9
+Kuwait,2018,48.45
+Kuwait,2019,96.9
+Kuwait,2020,48.45
+Kyrgyzstan,2017,97.46
+Kyrgyzstan,2018,48.73
+Kyrgyzstan,2019,97.46
+Kyrgyzstan,2020,48.73
+Laos,2017,96.88
+Laos,2018,48.44
+Laos,2019,96.88
+Laos,2020,48.44
+Latvia,2017,87.46
+Latvia,2018,43.73
+Latvia,2019,87.46
+Latvia,2020,43.73
+Lebanon,2017,97.92
+Lebanon,2018,48.96
+Lebanon,2019,97.92
+Lebanon,2020,48.96
+Lesotho,2017,97.92
+Lesotho,2018,48.96
+Lesotho,2019,97.92
+Lesotho,2020,48.96
+Liberia,2017,93.86
+Liberia,2018,46.93
+Liberia,2019,93.86
+Liberia,2020,46.93
+Libya,2017,97.18
+Libya,2018,48.59
+Libya,2019,97.18
+Libya,2020,48.59
+Liechtenstein,2017,91.66
+Liechtenstein,2018,45.83
+Liechtenstein,2019,91.66
+Liechtenstein,2020,45.83
+Lithuania,2017,87.46
+Lithuania,2018,43.73
+Lithuania,2019,87.46
+Lithuania,2020,43.73
+Luxembourg,2017,90.36
+Luxembourg,2018,45.18
+Luxembourg,2019,90.36
+Luxembourg,2020,45.18
+Macedonia,2017,89.84
+Macedonia,2018,44.92
+Macedonia,2019,89.84
+Macedonia,2020,44.92
+Madagascar,2017,98.34
+Madagascar,2018,49.17
+Madagascar,2019,98.34
+Madagascar,2020,49.17
+Malawi,2017,95.96
+Malawi,2018,47.98
+Malawi,2019,95.96
+Malawi,2020,47.98
+Malaysia,2017,97.46
+Malaysia,2018,48.73
+Malaysia,2019,97.46
+Malaysia,2020,48.73
+Maldives,2017,99.28
+Maldives,2018,49.64
+Maldives,2019,99.28
+Maldives,2020,49.64
+Mali,2017,96.56
+Mali,2018,48.28
+Mali,2019,96.56
+Mali,2020,48.28
+Malta,2017,93.26
+Malta,2018,46.63
+Malta,2019,93.26
+Malta,2020,46.63
+Marshall Islands,2017,85
+Marshall Islands,2018,42.5
+Marshall Islands,2019,85
+Marshall Islands,2020,42.5
+Mauritania,2017,98.6
+Mauritania,2018,49.3
+Mauritania,2019,98.6
+Mauritania,2020,49.3
+Mauritius,2017,98.74
+Mauritius,2018,49.37
+Mauritius,2019,98.74
+Mauritius,2020,49.37
+Mexico,2017,95.18
+Mexico,2018,47.59
+Mexico,2019,95.18
+Mexico,2020,47.59
+Micronesia,2017,82.36
+Micronesia,2018,41.18
+Micronesia,2019,82.36
+Micronesia,2020,41.18
+Moldova,2017,92.5
+Moldova,2018,46.25
+Moldova,2019,92.5
+Moldova,2020,46.25
+Monaco,2017,88.6
+Monaco,2018,44.3
+Monaco,2019,88.6
+Monaco,2020,44.3
+Mongolia,2017,97.92
+Mongolia,2018,48.96
+Mongolia,2019,97.92
+Mongolia,2020,48.96
+Montenegro,2017,89.44
+Montenegro,2018,44.72
+Montenegro,2019,89.44
+Montenegro,2020,44.72
+Morocco,2017,97.96
+Morocco,2018,48.98
+Morocco,2019,97.96
+Morocco,2020,48.98
+Mozambique,2017,98.5
+Mozambique,2018,49.25
+Mozambique,2019,98.5
+Mozambique,2020,49.25
+Namibia,2017,97.68
+Namibia,2018,48.84
+Namibia,2019,97.68
+Namibia,2020,48.84
+Nauru,2017,83.24
+Nauru,2018,41.62
+Nauru,2019,83.24
+Nauru,2020,41.62
+Nepal,2017,97.46
+Nepal,2018,48.73
+Nepal,2019,97.46
+Nepal,2020,48.73
+Netherlands,2017,88.46
+Netherlands,2018,44.23
+Netherlands,2019,88.46
+Netherlands,2020,44.23
+New Zealand,2017,92.22
+New Zealand,2018,46.11
+New Zealand,2019,92.22
+New Zealand,2020,46.11
+Nicaragua,2017,96.58
+Nicaragua,2018,48.29
+Nicaragua,2019,96.58
+Nicaragua,2020,48.29
+Niger,2017,99.1
+Niger,2018,49.55
+Niger,2019,99.1
+Niger,2020,49.55
+Nigeria,2017,96.14
+Nigeria,2018,48.07
+Nigeria,2019,96.14
+Nigeria,2020,48.07
+North Korea,2017,91.8
+North Korea,2018,45.9
+North Korea,2019,91.8
+North Korea,2020,45.9
+Norway,2017,89.96
+Norway,2018,44.98
+Norway,2019,89.96
+Norway,2020,44.98
+Oman,2017,96.9
+Oman,2018,48.45
+Oman,2019,96.9
+Oman,2020,48.45
+Pakistan,2017,94.12
+Pakistan,2018,47.06
+Pakistan,2019,94.12
+Pakistan,2020,47.06
+Palau,2017,90.44
+Palau,2018,45.22
+Palau,2019,90.44
+Palau,2020,45.22
+Panama,2017,97.16
+Panama,2018,48.58
+Panama,2019,97.16
+Panama,2020,48.58
+Papua New Guinea,2017,89.58
+Papua New Guinea,2018,44.79
+Papua New Guinea,2019,89.58
+Papua New Guinea,2020,44.79
+Paraguay,2017,96.62
+Paraguay,2018,48.31
+Paraguay,2019,96.62
+Paraguay,2020,48.31
+Peru,2017,97.7
+Peru,2018,48.85
+Peru,2019,97.7
+Peru,2020,48.85
+Philippines,2017,96.66
+Philippines,2018,48.33
+Philippines,2019,96.66
+Philippines,2020,48.33
+Poland,2017,86.84
+Poland,2018,43.42
+Poland,2019,86.84
+Poland,2020,43.42
+Portugal,2017,90.36
+Portugal,2018,45.18
+Portugal,2019,90.36
+Portugal,2020,45.18
+Qatar,2017,97.22
+Qatar,2018,48.61
+Qatar,2019,97.22
+Qatar,2020,48.61
+Romania,2017,87.46
+Romania,2018,43.73
+Romania,2019,87.46
+Romania,2020,43.73
+Russia,2017,87.9
+Russia,2018,43.95
+Russia,2019,87.9
+Russia,2020,43.95
+Rwanda,2017,88.52
+Rwanda,2018,44.26
+Rwanda,2019,88.52
+Rwanda,2020,44.26
+Saint Kitts and Nevis,2017,99.62
+Saint Kitts and Nevis,2018,49.81
+Saint Kitts and Nevis,2019,99.62
+Saint Kitts and Nevis,2020,49.81
+Saint Lucia,2017,98.74
+Saint Lucia,2018,49.37
+Saint Lucia,2019,98.74
+Saint Lucia,2020,49.37
+Saint Vincent and the Grenadines,2017,98.22
+Saint Vincent and the Grenadines,2018,49.11
+Saint Vincent and the Grenadines,2019,98.22
+Saint Vincent and the Grenadines,2020,49.11
+Samoa,2017,95.82
+Samoa,2018,47.91
+Samoa,2019,95.82
+Samoa,2020,47.91
+San Marino,2017,92.22
+San Marino,2018,46.11
+San Marino,2019,92.22
+San Marino,2020,46.11
+Sao Tome & Principe,2017,97.9
+Sao Tome & Principe,2018,48.95
+Sao Tome & Principe,2019,97.9
+Sao Tome & Principe,2020,48.95
+Saudi Arabia,2017,97.22
+Saudi Arabia,2018,48.61
+Saudi Arabia,2019,97.22
+Saudi Arabia,2020,48.61
+Senegal,2017,97.38
+Senegal,2018,48.69
+Senegal,2019,97.38
+Senegal,2020,48.69
+Serbia,2017,91.08
+Serbia,2018,45.54
+Serbia,2019,91.08
+Serbia,2020,45.54
+Seychelles,2017,99.38
+Seychelles,2018,49.69
+Seychelles,2019,99.38
+Seychelles,2020,49.69
+Sierra Leone,2017,99.18
+Sierra Leone,2018,49.59
+Sierra Leone,2019,99.18
+Sierra Leone,2020,49.59
+Singapore,2017,96.66
+Singapore,2018,48.33
+Singapore,2019,96.66
+Singapore,2020,48.33
+Slovakia,2017,88.02
+Slovakia,2018,44.01
+Slovakia,2019,88.02
+Slovakia,2020,44.01
+Slovenia,2017,89.84
+Slovenia,2018,44.92
+Slovenia,2019,89.84
+Slovenia,2020,44.92
+Solomon Islands,2017,92.2
+Solomon Islands,2018,46.1
+Solomon Islands,2019,92.2
+Solomon Islands,2020,46.1
+Somalia,2017,99.18
+Somalia,2018,49.59
+Somalia,2019,99.18
+Somalia,2020,49.59
+South Africa,2017,97.44
+South Africa,2018,48.72
+South Africa,2019,97.44
+South Africa,2020,48.72
+South Korea,2017,84.42
+South Korea,2018,42.21
+South Korea,2019,84.42
+South Korea,2020,42.21
+South Sudan,2017,84.5
+South Sudan,2018,42.25
+South Sudan,2019,84.5
+South Sudan,2020,42.25
+Spain,2017,89.58
+Spain,2018,44.79
+Spain,2019,89.58
+Spain,2020,44.79
+Sri Lanka,2017,98.24
+Sri Lanka,2018,49.12
+Sri Lanka,2019,98.24
+Sri Lanka,2020,49.12
+Sudan,2017,97.16
+Sudan,2018,48.58
+Sudan,2019,97.16
+Sudan,2020,48.58
+Suriname,2017,98.16
+Suriname,2018,49.08
+Suriname,2019,98.16
+Suriname,2020,49.08
+Swaziland,2017,97.92
+Swaziland,2018,48.96
+Swaziland,2019,97.92
+Swaziland,2020,48.96
+Sweden,2017,91.5
+Sweden,2018,45.75
+Sweden,2019,91.5
+Sweden,2020,45.75
+Switzerland,2017,91.3
+Switzerland,2018,45.65
+Switzerland,2019,91.3
+Switzerland,2020,45.65
+Syria,2017,93.22
+Syria,2018,46.61
+Syria,2019,93.22
+Syria,2020,46.61
+Tajikistan,2017,97.58
+Tajikistan,2018,48.79
+Tajikistan,2019,97.58
+Tajikistan,2020,48.79
+Tanzania,2017,97.58
+Tanzania,2018,48.79
+Tanzania,2019,97.58
+Tanzania,2020,48.79
+Thailand,2017,97.48
+Thailand,2018,48.74
+Thailand,2019,97.48
+Thailand,2020,48.74
+Timor-Leste,2017,98.86
+Timor-Leste,2018,49.43
+Timor-Leste,2019,98.86
+Timor-Leste,2020,49.43
+Togo,2017,92.94
+Togo,2018,46.47
+Togo,2019,92.94
+Togo,2020,46.47
+Tonga,2017,89.52
+Tonga,2018,44.76
+Tonga,2019,89.52
+Tonga,2020,44.76
+Trinidad and Tobago,2017,97.88
+Trinidad and Tobago,2018,48.94
+Trinidad and Tobago,2019,97.88
+Trinidad and Tobago,2020,48.94
+Tunisia,2017,98.48
+Tunisia,2018,49.24
+Tunisia,2019,98.48
+Tunisia,2020,49.24
+Turkey,2017,91.02
+Turkey,2018,45.51
+Turkey,2019,91.02
+Turkey,2020,45.51
+Turkmenistan,2017,99.64
+Turkmenistan,2018,49.82
+Turkmenistan,2019,99.64
+Turkmenistan,2020,49.82
+Tuvalu,2017,95.84
+Tuvalu,2018,47.92
+Tuvalu,2019,95.84
+Tuvalu,2020,47.92
+Uganda,2017,95.94
+Uganda,2018,47.97
+Uganda,2019,95.94
+Uganda,2020,47.97
+Ukraine,2017,88.3
+Ukraine,2018,44.15
+Ukraine,2019,88.3
+Ukraine,2020,44.15
+United Arab Emirates,2017,97.48
+United Arab Emirates,2018,48.74
+United Arab Emirates,2019,97.48
+United Arab Emirates,2020,48.74
+United Kingdom,2017,85.62
+United Kingdom,2018,42.81
+United Kingdom,2019,85.62
+United Kingdom,2020,42.81
+United States,2017,49.42
+United States,2018,24.71
+United States,2019,49.42
+United States,2020,24.71
+Uruguay,2017,98.52
+Uruguay,2018,49.26
+Uruguay,2019,98.52
+Uruguay,2020,49.26
+Uzbekistan,2017,96.1
+Uzbekistan,2018,48.05
+Uzbekistan,2019,96.1
+Uzbekistan,2020,48.05
+Vanuatu,2017,92.88
+Vanuatu,2018,46.44
+Vanuatu,2019,92.88
+Vanuatu,2020,46.44
+Venezuela,2017,96.34
+Venezuela,2018,48.17
+Venezuela,2019,96.34
+Venezuela,2020,48.17
+Vietnam,2017,96.9
+Vietnam,2018,48.45
+Vietnam,2019,96.9
+Vietnam,2020,48.45
+Yemen,2017,98.2
+Yemen,2018,49.1
+Yemen,2019,98.2
+Yemen,2020,49.1
+Zambia,2017,98.4
+Zambia,2018,49.2
+Zambia,2019,98.4
+Zambia,2020,49.2
+Zimbabwe,2017,95.08
+Zimbabwe,2018,47.54
+Zimbabwe,2019,95.08
+Zimbabwe,2020,47.54
+All Countries,2017,0
+All Countries,2018,0
+All Countries,2019,0
+All Countries,2020,0
